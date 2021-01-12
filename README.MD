@@ -18,7 +18,7 @@ NIM   : 312010318 <br>
 
 * **Hasil Output Ubah**
 
-![image](https://user-images.githubusercontent.com/73009853/104270631-83b98580-54cb-11eb-8518-5b02215cda93.png)<br>
+![image](https://user-images.githubusercontent.com/73009853/104271825-57533880-54ce-11eb-9470-0c73564354fe.png)<br>
 
 * **Hasil Output Hapus**
 
