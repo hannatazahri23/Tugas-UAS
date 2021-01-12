@@ -13,24 +13,25 @@ NIM   : 312010318 <br>
 
 * **Hasil Output Tambah**
 
-![gambar](/gambar/Opsi_tambah.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104270358-e9f1d880-54ca-11eb-995b-e7880a25e249.png)
+<br>
 
 * **Hasil Output Ubah**
 
-![gambar](/gambar/Opsi_ubah.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104270631-83b98580-54cb-11eb-8518-5b02215cda93.png)<br>
 
 * **Hasil Output Hapus**
 
-![gambar](/gambar/Opsi_hapus.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104270875-21ad5000-54cc-11eb-8921-9d49e92043c8.png)<br>
 
 * **Hasil Output Cari**
 
-![gambar](/gambar/Opsi_cari.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104271127-adbf7780-54cc-11eb-83df-27b0e48770f5.png)<br>
 
 * **Hasil Output Lihat**
 
-![gambar](/gambar/Opsi_lihat.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104271310-2fafa080-54cd-11eb-8113-6648168aeb46.png)<br>
 
 * **Hasil Output Keluar**
 
-![gambar](/gambar/Opsi_keluar.jpg)<br>
+![image](https://user-images.githubusercontent.com/73009853/104271393-67b6e380-54cd-11eb-8e8d-3436a9d7a21d.png)<br>
