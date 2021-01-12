@@ -8,7 +8,8 @@ NIM   : 312010318 <br>
       Buat package dan modul dengan sturktur seperti berikut:
 
 
-![gambar](/gambar/Soal_UAS.PNG)<br>
+![image](https://user-images.githubusercontent.com/73009853/104270196-7fd93380-54ca-11eb-8167-9595c678239e.png)
+<br>
 
 * **Hasil Output Tambah**
 
