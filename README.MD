@@ -8,7 +8,7 @@ NIM   : 312010318 <br>
       Buat package dan modul dengan sturktur seperti berikut:
 
 
-![gambar](/gambar/Soal_UAS.png)<br>
+![gambar](/gambar/Soal_UAS.PNG)<br>
 
 * **Hasil Output Tambah**
 
